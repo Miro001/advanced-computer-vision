@@ -1,0 +1,3 @@
+[submodule "FastPhotoStyle"]
+	path = FastPhotoStyle
+	url = https://github.com/NVIDIA/FastPhotoStyle.git
