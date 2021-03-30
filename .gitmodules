@@ -1,3 +1,6 @@
 [submodule "FastPhotoStyle"]
 	path = FastPhotoStyle
 	url = https://github.com/NVIDIA/FastPhotoStyle.git
+[submodule "SegLoss"]
+	path = SegLoss
+	url = https://github.com/JunMa11/SegLoss.git
